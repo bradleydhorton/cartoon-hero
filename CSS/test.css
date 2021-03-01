@@ -1,4 +1,5 @@
-body{background-color: lightgray}
+	<style type="text/css">
+		body{background-color: lightgray}
 
 h1{font-size: 30px;
 color: teal;}
@@ -12,3 +13,6 @@ h2{font-size: 20px;
 span{
 		color: violet;
 	}
+
+
+	</style>
